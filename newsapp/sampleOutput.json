@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "John Gruber",
+    "title": "WSJ: ‘Apple Is No Longer in Talks to Join OpenAI Investment Round’",
+    "description": null,
+    "url": "https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66",
+    "urlToImage": null,
+    "publishedAt": "2024-09-28T18:46:15Z",
+    "content": "Tom Dotan and Berber Jin, reporting late last night for The Wall Street Journal (News+):\n\n\n Apple is no longer in talks to participate in an OpenAI funding\nround expected to raise as much as $6.5 bil… [+1369 chars]"
+    }
+    ]
+    }
